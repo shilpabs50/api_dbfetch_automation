@@ -1,0 +1,4 @@
+tests\UserTest.class
+utils\ConfigManager.class
+api\UserAPI.class
+db\DBUtils.class
